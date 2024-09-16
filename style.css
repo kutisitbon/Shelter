@@ -5,8 +5,17 @@
  }
  ul{
     text-align: center;
+    font-weight: bold;
     color: black;
  }
- .home-image{
+ .home-image {
     width: 250px;
+ }
+
+ 
+ .copyrights {
+    /* position: absolute; */
+    color: black;
+    text-align: center;
+    bottom: unset;
  }
